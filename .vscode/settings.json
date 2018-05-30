@@ -1,3 +1,6 @@
 {
     "python.pythonPath": "${workspaceFolder}\\myvenv\\Scripts\\python.exe"
+
+    "editor.fontFamily": "Lucida Sans Typewriter", 
+    "editor.fontSize": 14,
 }
